@@ -40,4 +40,4 @@ Certifique-se de ter o Python instalado em sua máquina. Não é necessário ins
 
 1. **Clone o repositório:**
 ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+   git [clone https://github.com/beatrizeso/calculadoradev]
