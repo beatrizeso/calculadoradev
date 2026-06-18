@@ -1,3 +1,3 @@
-def somar(x, y):
+def somar(num1, num2):
     """Retorna a soma de dois números."""
-    return x + y
+    return num1 + num2      
